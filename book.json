@@ -2,5 +2,10 @@
     "plugins": [
         "edit-link"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "edit-link": {
+            "base": "https://github.com/Necmttn/turksinchina/tree/Draft",
+            "label": "Edit This Page"
+        }
+    }
 }
