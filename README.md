@@ -1,3 +1,4 @@
-# My Awesome Book
+# Turks In China
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Bu site Türkiye vatandaşlarının Çin Cumhuriyetindeki edindikleri bilgileri online olarak paylaşmaları için kurulmuştur.
+
