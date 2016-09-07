@@ -1,3 +1,3 @@
 # Denklik
 
-Denkligin nasil yapıldigi buraya gelicek.
+Üniversite Denklik Alımı.
