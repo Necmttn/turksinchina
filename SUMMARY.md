@@ -1,5 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
+* [Önsöz](README.md)
 * [Üniversite Denklik Alımı](chapter1.md)
 
