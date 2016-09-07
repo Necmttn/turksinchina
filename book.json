@@ -4,7 +4,7 @@
     ],
     "pluginsConfig": {
         "edit-link": {
-            "base": "https://github.com/Necmttn/turksinchina/tree/Draft",
+            "base": "https://github.com/Necmttn/turksinchina/edit/Draft/",
             "label": "Edit This Page"
         }
     }
