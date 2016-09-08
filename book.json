@@ -4,8 +4,8 @@
     ],
     "pluginsConfig": {
         "edit-link": {
-            "base": "https://github.com/Necmttn/turksinchina/edit/Draft/",
-            "label": "Edit This Page"
+            "base": "https://github.com/Necmttn/turksinchina/blob/master/",
+            "label": "Bu sayfayı düzenle"
         }
     }
 }
