@@ -5,8 +5,8 @@ Bu site Türkiye vatandaşlarının Çin Cumhuriyetindeki edindikleri bilgileri 
 
 ##Nasıl katkıda bulunabilirsiniz
 
-Lütfen Katkıda bulunun sayfasını okuyun.
-[Katkıda Bulunun Sayfası](./katkida_bulunun.md)
+Lütfen [Katkıda Bulunun Sayfası](./katkida_bulunun.md)'nı okuyun.
+
 
 
 
