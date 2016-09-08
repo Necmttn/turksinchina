@@ -2,5 +2,5 @@
 
 * [Önsöz](README.md)
 * [Üniversite Denklik Alımı](chapter1.md)
-* Katkıda bulunun
+* [Katkıda bulunun](katkida_bulunun.md)
 
